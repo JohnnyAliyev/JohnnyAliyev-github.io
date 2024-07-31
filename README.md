@@ -7,6 +7,11 @@
 - M.S., Applied Artificial Intelligent	| Hanyang University | South Korea (_December 2024_)	 			        		
 - B.S., Industrial Engineer | Azerbaijan State Oil and Industry University | Azerbaijan (_May 2018_)
 
+## Key areas of expertise
+
+Data Analysis and Reporting | Predictive Modeling and Advanced Analytics | Financial Analysis and Modeling | Statistical and Economic Principles |Enterprise Resource Planning (ERP) | Visualization and Data Presentation | Training and Development | Sales and Marketing Analysis
+
+
 ## Work Experience
 **Chief Data Analyst |  @ DOST RIM (_May 2022  - Present_)**
 
