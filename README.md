@@ -1,4 +1,4 @@
-# Data Scientist
+# Machine Learning/ AI engineer
 
 #### Technical Skills: Python, SQL, Excel VBA, Power BI,Tableau, SPSS,
 
