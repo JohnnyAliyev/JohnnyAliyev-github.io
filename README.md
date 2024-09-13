@@ -21,4 +21,4 @@
 
 - This project uses Facebook Prophet to forecast crime trends in Chicago based on data from 2001 to the present. The goal is to identify patterns and predict future crime rates for better decision-making.
 
-<img src="[https://media.licdn.com/dms/image/v2/D5612AQGOui8XZUZJSA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1680532048475?e=1731542400&v=beta&t=r9DMBI8isqb_xExRU7Y9XwvFxuGVfqHtgXoeO4oHsD0](https://www.databricks.com/wp-content/uploads/2020/01/FB-Prophet-logo.png)" alt="Description" width="300"/>
+<img src="https://www.databricks.com/wp-content/uploads/2020/01/FB-Prophet-logo.png" alt="Description" width="300"/>
