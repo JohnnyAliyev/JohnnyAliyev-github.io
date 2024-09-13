@@ -3,9 +3,9 @@
 
 ## Projects
 
-### [1. Car Price  Estimation Using Artificial Neural Networks](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/1_Car_Price_Estimation_Using_Artificial_Neural_Networks.ipynb)
+### [Car Price  Estimation Using Artificial Neural Networks](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/1_Car_Price_Estimation_Using_Artificial_Neural_Networks.ipynb)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Accurately estimating car prices is challenging due to various factors like model, mileage, and year of manufacture. Traditional methods often fall short in capturing the complexity of these variables. This project utilizes Artificial Neural Networks (ANNs) to develop a predictive model for car price estimation. By leveraging historical data, the ANN can identify patterns and relationships to deliver more accurate price predictions, offering valuable insights for both buyers and sellers in the automotive market.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
