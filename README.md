@@ -5,8 +5,12 @@
 
 ###### Welcome to my portfolio! I specialize in leveraging machine learning to solve complex problems and deliver innovative solutions. My projects showcase my ability to adapt existing models and frameworks, enhancing them with my unique ideas and insights. While some of the work involves building upon established projects, my contributions include integrating novel approaches, optimizing performance, and applying creative problem-solving skills. Each project reflects my commitment to advancing technology and delivering impactful results.
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_%282013%29.svg)](https://www.linkedin.com/in/cavidaliyev) [LinkedIn](https://www.linkedin.com/in/cavidaliyev)  
-[![Instagram]([https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png](https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=1380&t=st=1726241369~exp=1726241969~hmac=659b655b9803a705d69cf946716ca39ff64527c7f1e8c5d80a5a66821265685f))]([https://www.instagram.com/yourprofile](https://www.instagram.com/aliyevjohnny/?img_index=1)) [Instagram]([https://www.instagram.com/yourprofile](https://www.instagram.com/aliyevjohnny/?img_index=1))
+<a href="https://www.linkedin.com/in/cavidaliyev/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_%282013%29.svg" alt="LinkedIn" width="40"/>
+</a>
+<a href="https://www.instagram.com/aliyevjohnny/?img_index=1" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
+</a>
 
 
 
