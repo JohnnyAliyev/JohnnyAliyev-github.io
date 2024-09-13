@@ -78,3 +78,14 @@
 <img src="https://www.liveintent.com/wp-content/uploads/2022/10/AudienceSegmentation-header-1-1024x512.png" width="300"/>
 
 
+
+
+
+## Resume
+
+For a detailed overview of my professional experience, skills, and education, please download my resume:
+
+[![Download Resume](https://upload.wikimedia.org/wikipedia/commons/5/51/Download_icon.svg)](https://link-to-your-resume.pdf)
+
+Feel free to review it for more information about my background and qualifications.
+
