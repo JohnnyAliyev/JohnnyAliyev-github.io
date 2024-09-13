@@ -49,5 +49,14 @@
 
 - This notebook implements a recommendation system based on Pearson correlation. It calculates similarities between items to provide personalized recommendations tailored to user preferences.
 
-
 <img src="https://www.knowledgehut.com/_next/image?url=https%3A%2F%2Fd2o2utebsixu4k.cloudfront.net%2Fmedia%2Fimages%2Fa46e5c3d-4654-4d06-949a-bd4008e40d79.png&w=1920&q=75" alt="Description" width="300"/>
+
+#### [Leveraging XGBoost for Enhanced Precision in Supermarket Sales Forecasting](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/9_Leveraging_XGBoost_for_Enhanced_Precision_in_Supermarket_Sales_Forecasting.ipynb)
+
+- This project employs XGBoost to predict supermarket sales, aiming for accurate forecasts by analyzing historical data and utilizing advanced machine learning techniques.
+
+<img src="https://img.freepik.com/premium-photo/supermarket-vector-png_1013016-330.jpg?w=1800" width="300"/>
+
+
+
+
