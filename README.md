@@ -53,7 +53,7 @@
 
 #### [Leveraging XGBoost for Enhanced Precision in Supermarket Sales Forecasting](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/9_Leveraging_XGBoost_for_Enhanced_Precision_in_Supermarket_Sales_Forecasting.ipynb)
 
-- This project employs XGBoost to predict supermarket sales, aiming for accurate forecasts by analyzing historical data and utilizing advanced machine learning techniques.
+- This project employs XGBoost to predict supermarket sales, aiming for accurate forecasts by analyzing historical data and utilizing  machine learning techniques.
 
 <img src="https://img.freepik.com/premium-photo/supermarket-vector-png_1013016-330.jpg?w=1800" width="300"/>
 
