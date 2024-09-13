@@ -43,3 +43,11 @@
 - This project applies Naive Bayes and Natural Language Processing to analyze Yelp comments, aiming to classify sentiment and extract meaningful insights from reviews.
 
 <img src="https://blog.yelp.com/wp-content/uploads/2021/08/Yelp-Logo-Refresh.gif" alt="Description" width="300"/>
+
+
+#### [Pearson Correlation-Based Recommendation System for Accurate Suggestions](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/8_Pearson_Correlation_Based_Recommendation_System_for_Accurate_Suggestions.ipynb)
+
+- This notebook implements a recommendation system based on Pearson correlation. It calculates similarities between items to provide personalized recommendations tailored to user preferences.
+
+
+<img src="https://www.knowledgehut.com/_next/image?url=https%3A%2F%2Fd2o2utebsixu4k.cloudfront.net%2Fmedia%2Fimages%2Fa46e5c3d-4654-4d06-949a-bd4008e40d79.png&w=1920&q=75" alt="Description" width="300"/>
