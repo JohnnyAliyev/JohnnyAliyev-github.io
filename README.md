@@ -7,7 +7,7 @@
 
 Accurately estimating car prices is challenging due to various factors like model, mileage, and year of manufacture. Traditional methods often fall short in capturing the complexity of these variables. This project utilizes Artificial Neural Networks (ANNs) to develop a predictive model for car price estimation. By leveraging historical data, the ANN can identify patterns and relationships to deliver more accurate price predictions, offering valuable insights for both buyers and sellers in the automotive market.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
