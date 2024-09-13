@@ -57,6 +57,10 @@
 
 <img src="https://img.freepik.com/premium-photo/supermarket-vector-png_1013016-330.jpg?w=1800" width="300"/>
 
+#### [Customer Grouping with K-Means](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/10_Customer_Grouping_with_K_Means.ipynb)
 
+-  Project employs K-Means clustering to categorize customers by income and spending scores, aiming to identify distinct groups for more targeted marketing.
+-  
+<img src="https://www.corporatevision-news.com/wp-content/uploads/2022/10/Customer-Segmentation.jpg" width="300"/>
 
 
