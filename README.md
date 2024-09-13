@@ -36,3 +36,10 @@
 - This project applies the Naive Bayes algorithm to detect and classify spam emails, enhancing email filtering by distinguishing between spam and legitimate messages.
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Fm58r_RQ53sEHfwFa28LpA.png" alt="Description" width="300"/>
+
+
+#### [Harnessing Naive Bayes and Natural Language Processing for Yelp Comment Analysis](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/7_Harnessing_Naive_Bayes_and_Natural_Language_Processing_for_Yelp_Comment_Analysis.ipynb)
+
+- This project applies Naive Bayes and Natural Language Processing to analyze Yelp comments, aiming to classify sentiment and extract meaningful insights from reviews.
+
+<img src="https://blog.yelp.com/wp-content/uploads/2021/08/Yelp-Logo-Refresh.gif" alt="Description" width="300"/>
