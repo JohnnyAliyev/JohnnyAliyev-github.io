@@ -6,7 +6,7 @@
 ###### Welcome to my portfolio! I specialize in leveraging machine learning to solve complex problems and deliver innovative solutions. My projects showcase my ability to adapt existing models and frameworks, enhancing them with my unique ideas and insights. While some of the work involves building upon established projects, my contributions include integrating novel approaches, optimizing performance, and applying creative problem-solving skills. Each project reflects my commitment to advancing technology and delivering impactful results.
 
 <a href="https://www.linkedin.com/in/cavidaliyev/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_%282013%29.svg" alt="LinkedIn" width="40"/>
+  <img src="https://img.freepik.com/premium-vector/linkedin-app-icon-world-s-largest-professional-network-social-networking-jobs-careers_277909-476.jpg?w=1380" alt="LinkedIn" width="40"/>
 </a>
 <a href="https://www.instagram.com/aliyevjohnny/?img_index=1" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
