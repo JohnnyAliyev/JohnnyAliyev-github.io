@@ -24,7 +24,7 @@
 <img src="https://www.databricks.com/wp-content/uploads/2020/01/FB-Prophet-logo.png" alt="Description" width="300"/>
 
 
-#### [Leveraging LeNet CNN for Effective Traffic Sign Classification and Recognition](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/3_CrimeTrend_Forecasting_with_Facebook_Prophet_Analyzing_Chicago's_Criminal_Data_(2001_Present).ipynb)
+#### [Leveraging LeNet CNN for Effective Traffic Sign Classification and Recognition](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/5_Leveraging_LeNet_CNN_for_Effective_Traffic_Sign_Classification_and_Recognition.ipynb)
 
 - This project utilizes the LeNet CNN architecture to classify and recognize traffic signs, aiming to accurately identify various traffic sign types using deep learning techniques.
 
