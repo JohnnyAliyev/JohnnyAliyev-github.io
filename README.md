@@ -13,5 +13,6 @@
 
 - This project uses Convolutional Neural Networks (CNNs) to classify images from the CIFAR dataset. By leveraging CNNs' ability to capture intricate patterns in images, the goal is to accurately categorize images into predefined classes, enhancing image classification performance.
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhat-convolutional-neural-network-cnn-deep-learning-nafiz-shahriar&psig=AOvVaw3UWlbb55ZFkGz_aglq9m9Z&ust=1726318806953000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDL8PX8v4gDFQAAAAAdAAAAABAQ" alt="Description" width="300"/>
 
 
