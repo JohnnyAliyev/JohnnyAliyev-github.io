@@ -61,6 +61,6 @@
 
 -  Project employs K-Means clustering to categorize customers by income and spending scores, aiming to identify distinct groups for more targeted marketing.
   
-<img src="https://www.corporatevision-news.com/wp-content/uploads/2022/10/Customer-Segmentation.jpg" width="300"/>
+<img src="https://www.liveintent.com/wp-content/uploads/2022/10/AudienceSegmentation-header-1-1024x512.png" width="300"/>
 
 
