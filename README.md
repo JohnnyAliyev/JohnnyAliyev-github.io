@@ -29,3 +29,10 @@
 - This project utilizes the LeNet CNN architecture to classify and recognize traffic signs, aiming to accurately identify various traffic sign types using deep learning techniques.
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2405844022030808-gr6.jpg" alt="Description" width="300"/>
+
+
+#### [Email Spam Detection and Classification Using Naive Bayes Algorithm: Enhancing Email Filtering Efficiency](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/6_Email_Spam_Detection_and_Classification_Using_Naive_Bayes_Algorithm_Enhancing_Email_Filtering_Efficiency.ipynb)
+
+- This project applies the Naive Bayes algorithm to detect and classify spam emails, enhancing email filtering by distinguishing between spam and legitimate messages.
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Fm58r_RQ53sEHfwFa28LpA.png" alt="Description" width="300"/>
