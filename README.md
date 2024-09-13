@@ -9,7 +9,7 @@
   <img src="https://img.freepik.com/premium-vector/linkedin-app-icon-world-s-largest-professional-network-social-networking-jobs-careers_277909-476.jpg?w=1380" alt="LinkedIn" width="40"/>
 </a>
 <a href="https://www.instagram.com/aliyevjohnny/?img_index=1" target="_blank">
-  <img src="https://img.freepik.com/free-vector/instagram-background-gradient-colors_23-2147823816.jpg?t=st=1726241643~exp=1726245243~hmac=be13cea00f1fd4d3d2845f0364d34fb29a05188ac00edf76ffc8b6a59f6619b3&w=1380" alt="Instagram" width="40"/>
+  <img src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?t=st=1726239123~exp=1726242723~hmac=339c898b9f56850e3c658a189a0e69296ce1c18d9fec0470575feb77fc8caf8d&w=1380" alt="Instagram" width="40"/>
 </a>
 
 
