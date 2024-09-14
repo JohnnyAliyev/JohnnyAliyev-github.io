@@ -28,7 +28,11 @@
 <img src="https://img.freepik.com/premium-photo/campus-schoolhouse-vector-illustration-with-focus-graduation-college-environment_36897-28727.jpg?w=1800" alt="Description" width="300"/>
 
 
+#### [Predicting House Prices by employing ANN](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/22_Predicting_House_Prices_by_employing_ANN.ipynb)
 
+###### - TThis project focuses on predicting house prices in King County, USA, using a dataset from Kaggle covering sales from May 2014 to May 2015. The dataset includes features like the number of bedrooms, bathrooms, square footage, and more. The goal is to build a model that estimates house prices and reveals key factors influencing the housing market during this period
+
+<img src="https://img.freepik.com/premium-vector/professional-real-estate-appraisal-isolated-elements-with-charts-graphs_1316704-10815.jpg?w=1800" width="300"/>
 
 
 
