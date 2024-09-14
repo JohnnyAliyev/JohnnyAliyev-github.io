@@ -13,7 +13,7 @@
 </a>
 
 <hr>
-
+<hr style="border: 1px solid #000; width: 60%;"/>
  
 
 
