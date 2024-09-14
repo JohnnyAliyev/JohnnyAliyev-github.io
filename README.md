@@ -59,6 +59,19 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQHPT_P41W-1Bg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656047704655?e=1731542400&v=beta&t=sPF-gH07_Ki3FQaBh12s6PBVEbp1F3pCIPsTqjI5cKg" width="300"/>
 
 
+#### [Predicting Salary based on Years of experience by employing Polynomial Regression](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/18_Predicting_Salary_based_on_Years_of_experience_by_employing_Polynomial_Regression.ipynb)
+
+###### - We used polynomial regression to predict salary based on years of experience. This approach allows for modeling more complex relationships between experience and salary. Diagnostic checks included plotting residuals to assess model fit and ensure reliable predictions.
+
+<img src="https://img.freepik.com/free-vector/coins-lightbulb-scales-flat-vector-illustration-evaluating-value-creative-idea-balance-startup-project-finance-money-concept-banner-website-design-landing-web-page_74855-24039.jpg?t=st=1726295255~exp=1726298855~hmac=ee2ddc12bd1cad54da6b53f6affc8529ff6c2df67b9fc6d22520f37439044e0c&w=2000" width="300"/>
+
+
+
+
+
+
+
+
 
 
 
