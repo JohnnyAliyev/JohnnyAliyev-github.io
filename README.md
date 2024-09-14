@@ -45,6 +45,12 @@
 
 
 
+#### [Classification Models for Crop Recommendation Based on Soil and Climate Data](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/15_Classification_Models_for_Crop_Recommendation_Based_on_Soil_and_Climate_Data.ipynb)
+
+###### - This project utilizes various classification models to recommend suitable crops based on soil conditions and climate data. By analyzing factors such as soil type, moisture levels, and temperature, the models predict which crops will thrive in specific environments. These recommendations aim to optimize agricultural yield and resource use, assisting farmers in making informed decisions for crop selection.
+
+<img src="https://static.vecteezy.com/system/resources/previews/028/541/353/large_2x/a-farmland-illustration-with-the-mountains-in-the-background-free-photo.jpg" width="300"/>
+
 
 
 
