@@ -37,6 +37,12 @@
 
 
 
+#### [Developing a Logistic Regression Model for Predicting Breast Tumor Diagnosis Based on Tumor Characteristics](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/14_Developing_a_Logistic_Regression_Model_for_Predicting_Breast_Tumor_Diagnosis_Based_on_Tumor_Characteristics.ipynb)
+
+###### - This project employs Logistic Regression to predict the diagnosis of breast tumors based on tumor characteristics such as size, shape, and texture. The model classifies tumors into benign or malignant categories, aiding in early detection and diagnosis. Logistic Regression is chosen for its effectiveness in binary classification tasks, making it suitable for distinguishing between the two tumor types.
+
+<img src="https://img.freepik.com/free-vector/magnetic-resonance-imaging-tomography-mri_1150-50293.jpg?w=2000&t=st=1726290471~exp=1726291071~hmac=999997caef49c385e941928017bdb44998362c2807d4e87fa04e751f7fa3dd75" width="300"/>
+
 
 
 
