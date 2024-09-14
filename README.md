@@ -12,7 +12,7 @@
   <img src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?t=st=1726239123~exp=1726242723~hmac=339c898b9f56850e3c658a189a0e69296ce1c18d9fec0470575feb77fc8caf8d&w=1380" alt="Instagram" width="40"/>
 </a>
 
-
+<hr>
 
  
 
