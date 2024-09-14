@@ -3,7 +3,7 @@
 
 ## About Me and My Work
 
-        Welcome to my portfolio! I specialize in leveraging machine learning to solve complex problems and deliver innovative solutions. My projects showcase my ability to adapt existing models and frameworks, enhancing them with my unique ideas and insights. While some of the work involves building upon established projects, my contributions include integrating novel approaches, optimizing performance, and applying creative problem-solving skills. Each project reflects my commitment to advancing technology and delivering impactful results.
+   Welcome to my portfolio! I specialize in leveraging machine learning to solve complex problems and deliver innovative solutions. My projects showcase my ability to adapt existing models and frameworks, enhancing them with my unique ideas and insights. While some of the work involves building upon established projects, my contributions include integrating novel approaches, optimizing performance, and applying creative problem-solving skills. Each project reflects my commitment to advancing technology and delivering impactful results.
 
 <a href="https://www.linkedin.com/in/cavidaliyev/" target="_blank">
   <img src="https://img.freepik.com/premium-vector/linkedin-app-icon-world-s-largest-professional-network-social-networking-jobs-careers_277909-476.jpg?w=1380" alt="LinkedIn" width="40"/>
