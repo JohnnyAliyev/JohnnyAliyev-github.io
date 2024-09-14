@@ -50,6 +50,9 @@
 
 
 
+
+
+
 #### [Advertisement Click Forecasting Using Logistic Regression](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/21_Advertisement_Click_Forecasting_Using_Logistic_Regression.ipynb)
 
 ###### - This project aims to predict which users are likely to click on advertisements using logistic regression. We analyze customer data to build a model that helps optimize ad targeting and marketing strategies.
@@ -57,7 +60,11 @@
 <img src="https://img.freepik.com/premium-vector/targeted-advertising-concept-digital-marketing-effectiveness-targeted-advertising_675567-7021.jpg?w=2000" alt="Description" width="300"/>
 
 
+#### [Applying Ridge and Lasso Regression for Regularized Linear Models](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/23_Applying_Ridge_and_Lasso_Regression_for_Regularization_of_Linear_Models.ipynb)
 
+###### - In this project, we use Ridge and Lasso Regression to improve linear models. Ridge Regression helps manage complexity by shrinking coefficients, while Lasso Regression simplifies models by eliminating less important features. These techniques enhance both the accuracy and interpretability of our predictions.
+
+<img src="https://img.freepik.com/premium-vector/computer-gear-icon-vector-symbol-your-website_1151483-63929.jpg?w=1800" alt="Description" width="300"/>
 
 
 
