@@ -21,9 +21,23 @@
 
 ## Projects
 
+
+#### [Predicting Stock Price based on Interest Rates, Employment by employing Multiple Linear Regression](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/19_Predicting_Stock_Price_based_on_Interest_Rates%2C_Employment_by_employing_Multiple_Linear_Regression.ipynb)
+
+###### - This project is a basic introduction to multiple linear regression. We use a straightforward dataset with three columns: Interest Rates, Employment, and S&P 500 Price. The objective is to predict the S&P 500 Price based on Interest Rates and Employment. For simplicity, we also included an evaluation model to check the accuracy of our predictions.
+
+<img src="https://img.freepik.com/premium-vector/geometric-linear-financial-accounting-dash-vector-illustration_1322560-27351.jpg?w=1800" alt="Description" width="300"/>
+
+
+
+
+
+
+
+
 #### [Predicting Purchases with SVM Classifier](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/11_Predicting_Purchases_with_SVM_Classifieripynb.ipynb)
 
-###### - This project uses a Support Vector Machine (SVM) classifier to predict whether a customer will make a purchase based on their age and estimated salary. By analyzing these two features, the model classifies potential buyers, helping businesses target relevant customers more effectively. The dataset includes binary labels indicating whether each individual made a purchase or not..
+###### - This project uses a Support Vector Machine (SVM) classifier to predict whether a customer will make a purchase based on their age and estimated salary. By analyzing these two features, the model classifies potential buyers, helping businesses target relevant customers more effectively. The dataset includes binary labels indicating whether each individual made a purchase or not.
 
 <img src="https://img.freepik.com/free-vector/people-buying-food-supermarket-concept-illustration_114360-13391.jpg?t=st=1726288617~exp=1726292217~hmac=15cfdde1500c7202575c243bea8c1d9af87435a256def496f5326394bd5773f6&w=2000" alt="Description" width="300"/>
 
