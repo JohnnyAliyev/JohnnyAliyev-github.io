@@ -74,6 +74,13 @@
 
 
 
+#### [Robust Plant Classification Utilizing the K-Nearest Neighbors (KNN) Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/26_Robust_Plant_Classification_Utilizing_the_K_Nearest_Neighbors_(KNN)_Algorithm.ipynb)
+
+###### - This project aims to predict the species of iris plants using their features. The dataset includes 150 samples across three species: Iris Setosa, Iris Versicolour, and Iris Virginica. Each sample is described by sepal length, sepal width, petal length, and petal width.
+
+<img src="https://img.freepik.com/premium-vector/modern-houseplant-potted-icon-vector-illustration_1120563-20636.jpg?w=1800" width="300"/>
+
+
 
 
 
