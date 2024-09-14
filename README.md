@@ -52,6 +52,11 @@
 <img src="https://static.vecteezy.com/system/resources/previews/028/541/353/large_2x/a-farmland-illustration-with-the-mountains-in-the-background-free-photo.jpg" width="300"/>
 
 
+#### [Predicting Revenue based on Temperature by employing Simple Linear Regression](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/17_Predicting_Revenue_based_on_Temperature_by_employing_Simple_Linear_Regression.ipynb)
+
+###### - We used simple linear regression to predict revenue based on temperature. To check the model's accuracy, we created a Q-Q plot to test the normality of residuals, a leverage plot to find influential points, and a residual plot to check for consistent variance.
+
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQHPT_P41W-1Bg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656047704655?e=1731542400&v=beta&t=sPF-gH07_Ki3FQaBh12s6PBVEbp1F3pCIPsTqjI5cKg" width="300"/>
 
 
 
