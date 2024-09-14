@@ -12,8 +12,7 @@
   <img src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?t=st=1726239123~exp=1726242723~hmac=339c898b9f56850e3c658a189a0e69296ce1c18d9fec0470575feb77fc8caf8d&w=1380" alt="Instagram" width="40"/>
 </a>
 
-<div style="height: 75px; background: #fff url(image/cartoon.png) no-repeat scroll left; background-size: 80px 75px; margin-left: -40px;"></div>
-<hr style="width: 95%; margin-top: -40px; border: 0; border-bottom: 1px dashed black; background: #70A8FF;">
+<hr>
 
  
 
