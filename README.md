@@ -49,6 +49,11 @@
 <img src="https://img.freepik.com/premium-vector/geometric-linear-financial-accounting-dash-vector-illustration_1322560-27351.jpg?w=1800" alt="Description" width="300"/>
 
 
+#### [Predicting Malignant or Benign Tumors Using Support Vector Machines (SVM)](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/24_Predicting_Malignant_or_Benign_Tumors_Using_Support_Vector_Machines_(SVM).ipynb)
+
+###### - This project uses Support Vector Machines (SVM) to classify tumors as benign or malignant based on 30 features.
+
+<img src="https://img.freepik.com/premium-vector/medical-equipment-instruction-manuals-with-icons_1322206-44106.jpg?w=1800" alt="Description" width="300"/>
 
 
 
