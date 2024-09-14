@@ -65,6 +65,19 @@
 <img src="https://img.freepik.com/premium-vector/targeted-advertising-concept-digital-marketing-effectiveness-targeted-advertising_675567-7021.jpg?w=2000" alt="Description" width="300"/>
 
 
+
+#### [Finding the Nearest Class Using KNN](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/25_Finding_the_Nearest_Class_Using_KNN.ipynb)
+
+###### - This project uses the k-Nearest Neighbors (KNN) algorithm to predict T-shirt size based on height (in cm) and weight (in kg). The model finds the nearest neighbors to classify the T-shirt size accurately.
+
+<img src="https://img.freepik.com/premium-vector/modern-flat-design-chart-icon-isolated-white-background_1310786-10606.jpg?w=1800" alt="Description" width="300"/>
+
+
+
+
+
+
+
 #### [Applying Ridge and Lasso Regression for Regularized Linear Models](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/23_Applying_Ridge_and_Lasso_Regression_for_Regularization_of_Linear_Models.ipynb)
 
 ###### - In this project, we use Ridge and Lasso Regression to improve linear models. Ridge Regression helps manage complexity by shrinking coefficients, while Lasso Regression simplifies models by eliminating less important features. These techniques enhance both the accuracy and interpretability of our predictions.
