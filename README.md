@@ -197,7 +197,7 @@
 
 ###### - This project uses the Naive Bayes method to predict credit card fraud. The dataset includes 284,807 transactions from European cardholders, with 492 identified as fraudulent. Features are numerical and PCA-transformed, except for 'Time' and 'Amount,' which provide context for each transaction.
 
-<img src="https://img.freepik.com/premium-vector/cybercrime-phishing-abstract-concept-hacker_1334819-41026.jpg?w=1800" width="300"/>
+<img src="https://img.freepik.com/premium-photo/credit-card-isolated-icon-white-background_1316704-23474.jpg?w=1800" width="300"/>
 
 
 
