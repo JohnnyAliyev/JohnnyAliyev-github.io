@@ -14,8 +14,43 @@
 
 
 
+ 
+
+
+
 
 ## Projects
+
+#### [Predicting Purchases with SVM Classifier](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/11_Predicting_Purchases_with_SVM_Classifieripynb.ipynb)
+
+###### - This project uses a Support Vector Machine (SVM) classifier to predict whether a customer will make a purchase based on their age and estimated salary. By analyzing these two features, the model classifies potential buyers, helping businesses target relevant customers more effectively. The dataset includes binary labels indicating whether each individual made a purchase or not..
+
+<img src="https://img.freepik.com/free-vector/people-buying-food-supermarket-concept-illustration_114360-13391.jpg?t=st=1726288617~exp=1726292217~hmac=15cfdde1500c7202575c243bea8c1d9af87435a256def496f5326394bd5773f6&w=2000" alt="Description" width="300"/>
+
+
+
+#### [Logistic Regression Model for Predicting the Survival Chances of Titanic Passengers](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/12_Logistic_Regression_Model_for_Predicting_the_Survival_Chances_of_Titanic_Passengers.ipynb)
+
+###### - This project applies Logistic Regression to predict the survival of passengers on the Titanic. By analyzing various features such as age, gender, passenger class, and fare, the model classifies whether a passenger is likely to survive the disaster. Logistic Regression is used due to its suitability for binary classification problems, making it ideal for this task of predicting survival outcomes
+
+<img src="https://img.clipart-library.com/2/clip-cruise-ship/clip-cruise-ship-20.jpg" alt="Description" width="300"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### [Car Price  Estimation Using Artificial Neural Networks](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/1_Car_Price_Estimation_Using_Artificial_Neural_Networks.ipynb)
 
