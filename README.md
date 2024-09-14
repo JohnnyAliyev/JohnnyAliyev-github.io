@@ -74,12 +74,22 @@
 
 
 
+
+
+
 #### [Robust Plant Classification Utilizing the K-Nearest Neighbors (KNN) Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/26_Robust_Plant_Classification_Utilizing_the_K_Nearest_Neighbors_(KNN)_Algorithm.ipynb)
 
 ###### - This project aims to predict the species of iris plants using their features. The dataset includes 150 samples across three species: Iris Setosa, Iris Versicolour, and Iris Virginica. Each sample is described by sepal length, sepal width, petal length, and petal width.
 
 <img src="https://img.freepik.com/premium-vector/modern-houseplant-potted-icon-vector-illustration_1120563-20636.jpg?w=1800" width="300"/>
 
+
+
+#### [Utilizing Decision Tree Analysis for Classifying Amazon Alexa Review Ratings](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/27_Utilizing_Decision_Tree_Analysis_for_Classifying_Amazon_Alexa_Review_Ratings.ipynb)
+
+###### - This project utilizes Decision Tree Analysis to classify Amazon Alexa review ratings. The dataset includes nearly 3,000 reviews with star ratings, review dates, product variants, and feedback.
+
+<img src="https://img.freepik.com/premium-vector/cash-back-offer-message-bubble-icon_1316704-38586.jpg?w=1800" width="300"/>
 
 
 
