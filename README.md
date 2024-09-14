@@ -158,12 +158,6 @@
 
 
 
-
-
-
-
-
-
 #### [Car Price  Estimation Using Artificial Neural Networks](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/1_Car_Price_Estimation_Using_Artificial_Neural_Networks.ipynb)
 
 ###### - Estimating car prices accurately is difficult due to factors like model, mileage, and year. This project uses Artificial Neural Networks (ANNs) to develop a predictive model that leverages historical data to deliver more precise price predictions, providing valuable insights for buyers and sellers in the automotive market.
@@ -197,6 +191,20 @@
 ###### - This project applies the Naive Bayes algorithm to detect and classify spam emails, enhancing email filtering by distinguishing between spam and legitimate messages.
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Fm58r_RQ53sEHfwFa28LpA.png" alt="Description" width="300"/>
+
+
+#### [Utilizing the Naive Bayes method to predict credit card fraud.](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/28_Utilizing_the_Naive_Bayes_method_to_predict_credit_card_fraud.ipynb)
+
+###### - This project uses the Naive Bayes method to predict credit card fraud. The dataset includes 284,807 transactions from European cardholders, with 492 identified as fraudulent. Features are numerical and PCA-transformed, except for 'Time' and 'Amount,' which provide context for each transaction.
+
+<img src="https://img.freepik.com/premium-vector/cybercrime-phishing-abstract-concept-hacker_1334819-41026.jpg?w=1800" width="300"/>
+
+
+
+
+
+
+
 
 
 #### [Harnessing Naive Bayes and Natural Language Processing for Yelp Comment Analysis](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/7_Harnessing_Naive_Bayes_and_Natural_Language_Processing_for_Yelp_Comment_Analysis.ipynb)
