@@ -22,6 +22,14 @@
 
 ## Projects
 
+
+
+
+<img src="https://drive.google.com/file/d/1SHCJpuYyuN5Z9XrLeRKq9R0w6dCkXk8Q/view?usp=share_link" alt="Description" width="300"/>
+
+
+
+
 #### [Estimating University Admission Probability by employing Multiple Linear Regression](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/20_Estimating_University_Admission_Probability_by_employing_Multiple_Linear_Regression.ipynb)
 
 ###### - This project develops a regression model to predict the chances of getting into a graduate program. We use a dataset with features like GRE and TOEFL scores, university rating, and GPA. The goal is to estimate the probability of admission based on these factors.
