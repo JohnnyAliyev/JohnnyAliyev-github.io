@@ -25,7 +25,7 @@
 
 
 
-<img src="https://drive.google.com/file/d/1SHCJpuYyuN5Z9XrLeRKq9R0w6dCkXk8Q/view?usp=share_link" alt="Description" width="300"/>
+<img src="https://i.ibb.co/S05Zjj4/Screenshot-2024-09-16-at-5-58-43-PM.png" width="300"/>
 
 
 
