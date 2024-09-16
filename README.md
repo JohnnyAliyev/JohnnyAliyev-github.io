@@ -24,6 +24,10 @@
 
 
 
+#### [Segmenting Shoppers with K-Means: Uncovering Customer Clusters in FMCG Purchases](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/29_Segmenting_Shoppers_with_K_Means_Uncovering_Customer_Clusters_in_FMCG_Purchases.ipynb)
+
+###### - This project uses K-means clustering to identify distinct customer segments from data collected via loyalty cards at an FMCG store. By analyzing attributes such as age, income, and occupation, we aim to reveal meaningful patterns to enhance marketing strategies and store offerings.
+
 
 <img src="https://i.ibb.co/S05Zjj4/Screenshot-2024-09-16-at-5-58-43-PM.png" width="300"/>
 
