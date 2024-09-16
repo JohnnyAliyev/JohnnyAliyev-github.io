@@ -29,7 +29,7 @@
 ###### - This project uses K-means clustering to identify distinct customer segments from data collected via loyalty cards at an FMCG store. By analyzing attributes such as age, income, and occupation, we aim to reveal meaningful patterns to enhance marketing strategies and store offerings.
 
 
-<img src="https://i.ibb.co/S05Zjj4/Screenshot-2024-09-16-at-5-58-43-PM.png" width="300"/>
+<img src="https://i.ibb.co/S05Zjj4/Screenshot-2024-09-16-at-5-58-43-PM.png" width="150"/>
 
 
 
