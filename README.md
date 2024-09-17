@@ -27,7 +27,7 @@
 
 <div style="display: flex; align-items: center;">
   <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">This project leverages an adapted UCI Wine Data Set for unsupervised learning. The dataset, which contains 13 chemical attributes of wines from the same region, is used to explore hidden patterns through Hierarchical and DBSCAN clustering algorithms.</p>
-  <img src="https://vinepair.com/wp-content/uploads/2020/11/Virginiawine_header.jpg" width="150" alt="Audience Segmentation"/>
+  <img src="https://vinepair.com/wp-content/uploads/2020/11/Virginiawine_header.jpg" width="200" alt="Audience Segmentation"/>
 </div>
 <hr>
 <br><br>
