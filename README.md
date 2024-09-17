@@ -25,10 +25,10 @@
 ##### [Finding Optimal Client Clusters Using the K-Means Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/30_Finding_Optimal_Client_Clusters_Using_the_K_Means_Algorithm.ipynb)
 
 <div style="display: flex; align-items: center;">
-  <p style="margin-right: 10px; font-size: 8px;">This project involves utilizing the K-Means algorithm to segment clients of a wholesale distributor of gourmet food products. By analyzing yearly client data, the goal is to identify distinct customer groups to help the company tailor its services and strategies more effectively.</p>
+  <p style="margin-right: 10px; font-size: 12px; font-weight: bold;">This project involves utilizing the K-Means algorithm to segment clients of a wholesale distributor of gourmet food products. By analyzing yearly client data, the goal is to identify distinct customer groups to help the company tailor its services and strategies more effectively.</p>
   <img src="https://img.freepik.com/premium-vector/audience-segmentation-concept-man-near-large-circular-chart-with-images-people_186332-656.jpg?w=2000" width="150" alt="Audience Segmentation"/>
 </div>
-
+<hr>
 
 
 
@@ -36,27 +36,19 @@
 
 ##### [Finding Optimal Client Clusters Using the K-Means Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/30_Finding_Optimal_Client_Clusters_Using_the_K_Means_Algorithm.ipynb)
 
-###### - This project involves utilizing the K-Means algorithm to segment clients of a wholesale distributor of gourmet food products. By analyzing yearly client data, the goal is to identify distinct customer groups to help the company tailor its services and strategies more effectively.
-
-
-<img src="https://img.freepik.com/premium-vector/audience-segmentation-concept-man-near-large-circular-chart-with-images-people_186332-656.jpg?w=2000" width="150"/>
-
-
-
-
-
-
-
-
-
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; font-size: 12px; font-weight: bold;">This project involves utilizing the K-Means algorithm to segment clients of a wholesale distributor of gourmet food products. By analyzing yearly client data, the goal is to identify distinct customer groups to help the company tailor its services and strategies more effectively.</p>
+  <img src="https://img.freepik.com/premium-vector/audience-segmentation-concept-man-near-large-circular-chart-with-images-people_186332-656.jpg?w=2000" width="150" alt="Audience Segmentation"/>
+</div>
+<hr>
 
 #### [Segmenting Shoppers with K-Means: Uncovering Customer Clusters in FMCG Purchases](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/29_Segmenting_Shoppers_with_K_Means_Uncovering_Customer_Clusters_in_FMCG_Purchases.ipynb)
 
-###### - This project uses K-means clustering to identify distinct customer segments from data collected via loyalty cards at an FMCG store. By analyzing attributes such as age, income, and occupation, we aim to reveal meaningful patterns to enhance marketing strategies and store offerings.
-
-
-<img src="https://i.ibb.co/S05Zjj4/Screenshot-2024-09-16-at-5-58-43-PM.png" width="150"/>
-
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; font-size: 12px; font-weight: bold;">This project uses K-means clustering to identify distinct customer segments from data collected via loyalty cards at an FMCG store. By analyzing attributes such as age, income, and occupation, we aim to reveal meaningful patterns to enhance marketing strategies and store offerings.</p>
+  <img src="https://i.ibb.co/S05Zjj4/Screenshot-2024-09-16-at-5-58-43-PM.png" width="150" alt="Customer Segments"/>
+</div>
+<hr>
 
 
 
