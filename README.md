@@ -24,13 +24,10 @@
 
 ##### [Finding Optimal Client Clusters Using the K-Means Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/30_Finding_Optimal_Client_Clusters_Using_the_K_Means_Algorithm.ipynb)
 
-###### - This project involves utilizing the K-Means algorithm to segment clients of a wholesale distributor of gourmet food products. By analyzing yearly client data, the goal is to identify distinct customer groups to help the company tailor its services and strategies more effectively.
-
 <div style="display: flex; align-items: center;">
-  <p style="margin-right: 6px;"> This project involves utilizing the K-Means algorithm to segment clients of a wholesale distributor of gourmet food products. By analyzing yearly client data, the goal is to identify distinct customer groups to help the company tailor its services and strategies more effectively.</p>
+  <p style="margin-right: 10px; font-size: 8px;">This project involves utilizing the K-Means algorithm to segment clients of a wholesale distributor of gourmet food products. By analyzing yearly client data, the goal is to identify distinct customer groups to help the company tailor its services and strategies more effectively.</p>
   <img src="https://img.freepik.com/premium-vector/audience-segmentation-concept-man-near-large-circular-chart-with-images-people_186332-656.jpg?w=2000" width="150" alt="Audience Segmentation"/>
 </div>
-
 
 
 
