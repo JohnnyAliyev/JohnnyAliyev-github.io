@@ -22,6 +22,22 @@
 
 ## Projects
 
+
+##### [Advanced Clustering Analysis of Wine Chemistry Using Hierarchical Clustering and DBSCAN Methods](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/31_Advanced_Clustering_Analysis_of_Wine_Chemistry_Using_Hierarchical_Clustering_and_DBSCAN_Methods.ipynb)
+
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">This project leverages an adapted UCI Wine Data Set for unsupervised learning. The dataset, which contains 13 chemical attributes of wines from the same region, is used to explore hidden patterns through Hierarchical and DBSCAN clustering algorithms.</p>
+  <img src="https://img.freepik.com/premium-photo/wine-different-types-cheese-wine-glass-illustration-food-drink_1021406-6304.jpg?w=1380" width="200" alt="Audience Segmentation"/>
+</div>
+<hr>
+<br><br>
+
+
+
+
+
+
+
 ##### [Finding Optimal Client Clusters Using the K-Means Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/30_Finding_Optimal_Client_Clusters_Using_the_K_Means_Algorithm.ipynb)
 
 <div style="display: flex; align-items: center;">
