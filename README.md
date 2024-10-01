@@ -23,6 +23,21 @@
 ## Projects
 
 
+
+##### [Outlier Detection in Substance Use Patterns Using Isolation Forest Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/32_Outlier_Detection_in_Substance_Use_Patterns_Using_Isolation_Forest_Algorithm.ipynb)
+
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">This project aims to find outliers in substance use patterns through the Isolation Forest algorithm applied to a dataset of 1885 respondents.</p>
+  <img src="https://img.freepik.com/premium-vector/searching-candidate-isometric-illustration_7209-230.jpg?w=1800" width="200" alt="Audience Segmentation"/>
+</div>
+<hr>
+<br><br>
+
+
+
+
+
+
 ##### [Advanced Clustering Analysis of Wine Chemistry Using Hierarchical Clustering and DBSCAN Methods](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/31_Advanced_Clustering_Analysis_of_Wine_Chemistry_Using_Hierarchical_Clustering_and_DBSCAN_Methods.ipynb)
 
 <div style="display: flex; align-items: center;">
