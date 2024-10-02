@@ -24,6 +24,18 @@
 
 
 
+##### [PCA Insights: Simplifying Glass Dataset](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/33_PCA_Insights_Simplifying_Glass_Dataset.ipynb)
+
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">TThe aim of this project is to use Principal Component Analysis (PCA) exclusively for dimensionality reduction on the Glass Identification Data Set from UCI. This dataset consists of 214 instances and 9 attributes related to glass composition. By applying PCA, the project seeks to simplify the dataset while retaining its essential characteristics, facilitating further analysis of glass classification.</p>
+  <img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured.png" width="200" alt="Audience Segmentation"/>
+</div>
+<hr>
+<br><br>
+
+
+
+
 ##### [Outlier Detection in Substance Use Patterns Using Isolation Forest Algorithm](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/32_Outlier_Detection_in_Substance_Use_Patterns_Using_Isolation_Forest_Algorithm.ipynb)
 
 <div style="display: flex; align-items: center;">
