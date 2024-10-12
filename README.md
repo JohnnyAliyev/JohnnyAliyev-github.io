@@ -29,7 +29,7 @@
 
 <div style="display: flex; align-items: center;">
   <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">This project focuses on reducing dimensions and visualizing the Glass Identification Data Set using t-Distributed Stochastic Neighbor Embedding (t-SNE). By transforming the dataset, which consists of 214 instances and 9 chemical attributes, into an intuitive two-dimensional representation, we aim to facilitate effective visualization and exploration of glass types.</p>
-  <img src="https://miro.medium.com/v2/resize:fit:1090/format:webp/1*xVp0-lExbhvoPCrzhgjfAA.png" width="200" alt="Audience Segmentation"/>
+  <img src="https://ibb.co/3mmnrsR" width="200" alt="Audience Segmentation"/>
 </div>
 <hr>
 <br><br>
