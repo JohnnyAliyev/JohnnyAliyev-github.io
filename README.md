@@ -24,10 +24,24 @@
 
 
 
+
+##### [Visualizing Transparency: Dimensional Reduction of Glass Composition Data Using t-Distributed Stochastic Neighbor Embedding Techniques (T-SNE)](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/34_Visualizing_Transparency_Dimensional_Reduction_of_Glass_Composition_Data_Using_t_Distributed_Stochastic_Neighbor_Embedding_Techniques_(T_SNE).ipynb)
+
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">This project focuses on reducing dimensions and visualizing the Glass Identification Data Set using t-Distributed Stochastic Neighbor Embedding (t-SNE). By transforming the dataset, which consists of 214 instances and 9 chemical attributes, into an intuitive two-dimensional representation, we aim to facilitate effective visualization and exploration of glass types.</p>
+  <img src="https://miro.medium.com/v2/resize:fit:1090/format:webp/1*xVp0-lExbhvoPCrzhgjfAA.png" width="200" alt="Audience Segmentation"/>
+</div>
+<hr>
+<br><br>
+
+
+
+
+
 ##### [PCA Insights: Simplifying Glass Dataset](https://github.com/JohnnyAliyev/JohnnyAliyev-github.io/blob/main/33_PCA_Insights_Simplifying_Glass_Dataset.ipynb)
 
 <div style="display: flex; align-items: center;">
-  <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">TThe aim of this project is to use Principal Component Analysis (PCA) exclusively for dimensionality reduction on the Glass Identification Data Set from UCI. This dataset consists of 214 instances and 9 attributes related to glass composition. By applying PCA, the project seeks to simplify the dataset while retaining its essential characteristics, facilitating further analysis of glass classification.</p>
+  <p style="margin-right: 10px; font-size: 10px; font-weight: bold;color: black;">The aim of this project is to use Principal Component Analysis (PCA) exclusively for dimensionality reduction on the Glass Identification Data Set from UCI. This dataset consists of 214 instances and 9 attributes related to glass composition. By applying PCA, the project seeks to simplify the dataset while retaining its essential characteristics, facilitating further analysis of glass classification.</p>
   <img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured.png" width="200" alt="Audience Segmentation"/>
 </div>
 <hr>
